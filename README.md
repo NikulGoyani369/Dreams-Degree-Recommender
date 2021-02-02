@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I'm a Full Stack Web Developer with experience in JavaScript, Vue.js, React.js, Node.js, HTML, CSS3, Python. 
 
-I am a self thought developer, have a can-do-attitude and enjoy converting Indian Chai to code everyday. ☕️ 👩🏽‍💻
+I am a self thought developer, have a can-do-attitude and enjoy Indian Chai with write code everyday. ☕️ 👩🏽‍💻
