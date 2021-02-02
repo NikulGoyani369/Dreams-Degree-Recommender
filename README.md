@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Full Stack Web Developer with experience in JavaScript, TypeScript React.js, Node.js, CSS3, SCSS. 
+
+I am a self thought developer, have a can-do-attitude and enjoy converting Indian Chai to code everyday. ☕️ 👩🏽‍💻
