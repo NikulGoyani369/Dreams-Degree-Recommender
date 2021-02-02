@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Full Stack Web Developer with experience in JavaScript, TypeScript React.js, Node.js, CSS3, SCSS. 
+I'm a Full Stack Web Developer with experience in JavaScript, Vue.js, React.js, Node.js, HTML, CSS3, Python. 
 
 I am a self thought developer, have a can-do-attitude and enjoy converting Indian Chai to code everyday. ☕️ 👩🏽‍💻
