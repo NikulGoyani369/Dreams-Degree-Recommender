@@ -1,21 +1,31 @@
-### Hi there 👋
+# Hi, I'm Nikul Goyani 👋
 
-<!--
-**NikulGoyani369/NikulGoyani369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught Frontend / Backend Developer with a can-do attitude and a love for Indian Chai and writing code. ☕️ 👩🏽‍💻 Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about creating user-friendly and visually appealing web applications. My journey began with a curiosity for programming, and since then, I've honed my skills in various technologies to bring ideas to life. With experience in JavaScript, Angular.js, React.js, Node.js, HTML, CSS3, and Python, I enjoy the challenge of turning concepts into interactive experiences.
 
-I'm a Frontend Web Developer with experience in JavaScript, Angular.js, React.js, Node.js, HTML, CSS3, Python. 
-University Project:- https://thedatadreams3-gmail-com.github.io/#
+- 🔭 I’m currently working on enhancing my skills in Sabha Attendi with RxJS .
+- 🌱 I’m constantly learning and exploring new web development trends and techniques.
+- 💬 Feel free to connect with me for collaborations or just to chat about all things web development!
 
-I am a self thought developer, have a can-do-attitude and enjoy Indian Chai with write code everyday. ☕️ 👩🏽‍💻
+## Portfolio
+
+Check out some of my noteworthy projects:
+For a more comprehensive view of my workvisit my [portfolio website](https://thedatadreams3-gmail-com.github.io/#).
+
+## Skills
+
+Here are some of the technologies and tools I work with:
+
+- Frontend: HTML, CSS3, JavaScript, Angular.js, React.js
+- Backend: Node.js
+- Other: Python
+
+## Let's Connect
+
+- LinkedIn: ([Profile](https://www.linkedin.com/in/nikulkumar-goyani-10470533/))
+- Email: gnikul39@email.com
+
+Thanks for stopping by! Feel free to explore my projects and connect with me. Happy coding! 🚀
